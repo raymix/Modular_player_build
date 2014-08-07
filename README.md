@@ -1,4 +1,5 @@
 #Modular *player_build* Concept
+#(Part of EPOCH 1052 now)
 ___
 Based on files from Dayz Epoch 1.0.5.2 RC and imitates original file/folder structure
 
